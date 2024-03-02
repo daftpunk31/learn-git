@@ -2,4 +2,6 @@
 
 Testing line 3
 
-Added this line
+# deleted the previous line here
+
+This is a new line here!
